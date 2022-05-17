@@ -25,3 +25,9 @@ window.addEventListener('DOMContentLoaded', event => {
     });
 
 });
+/*
+const typeWriter = document.getElementById('typewriter-text');
+const text = 'Bienvenido a mi Curriculum Vitae';
+
+typeWriter.innerHTML = text;
+typeWriter.style.setProperty('--characters', text.length);*/
